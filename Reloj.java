@@ -7,7 +7,7 @@ public static void main(String[] args){
 		System.out.println( + h + " : " + m + " ; " + s );
 		
 	}
-	
+	System.out.println( "uno C" );
 }
 	}
 }
